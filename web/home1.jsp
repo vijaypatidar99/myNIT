@@ -631,7 +631,7 @@
 <hr>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------>
 <br>
- 
+<!-- 
 <div class="card-group text-center">
   
 <div class="card mb-3 border-light bg-primary " >
@@ -639,7 +639,48 @@
     
     <div class="col-md-4 ">
      
-      <img src="./assets/img/vijaypatidar.png" class="img-fluid rounded-bottom h-100 " alt="vijay patidar">
+    <img src="./assets/img/vijaypatidar.png" class="img-fluid rounded-bottom h-100 " alt="vijay patidar">>  
+    </div>
+    <div class="col-md-6">
+      <div class="card-body">
+        <h1 class="card-title text-opacity-100 text-light">Vijay patidar</h1>
+        <hr>
+        <p class="card-text text-light">Project Manager & Developer</p>
+        <h6 class="card-text"><small class="text-light">I am Vijay Patidar and i'm a Programmer and  web developer. Currently i am the student of Master of computer application in  National Institute of Technology, Raipur. I am also working on Penetration testing web development project</small></h6>
+      
+        <br><br><br>
+        <a class="btn btn-outline-danger bg-light" href="https://github.com/vijaypatidar99"target="_blank" role="button">Github</a>
+        <a class="btn btn-outline-danger bg-light" href="https://www.linkedin.com/in/vijay-patidar-951a16206"target="_blank" role="button">Linkedin</a>
+        <a class="btn btn-outline-danger bg-light" href="https://www.instagram.com/v_4_vijayy" target="_blank" role="button">Instagram</a>
+        
+       <div class="col-md-6">
+      <div class="card-body">
+        <h1 class="card-title text-opacity-100 text-light">Vijay patidar</h1>
+        <hr>
+        <p class="card-text text-light">Project Manager & Developer</p>
+        <h6 class="card-text"><small class="text-light">I am Vijay Patidar and i'm a Programmer and  web developer. Currently i am the student of Master of computer application in  National Institute of Technology, Raipur. I am also working on Penetration testing web development project</small></h6>
+      
+        <br><br><br>
+        <a class="btn btn-outline-danger bg-light" href="https://github.com/vijaypatidar99"target="_blank" role="button">Github</a>
+        <a class="btn btn-outline-danger bg-light" href="https://www.linkedin.com/in/vijay-patidar-951a16206"target="_blank" role="button">Linkedin</a>
+        <a class="btn btn-outline-danger bg-light" href="https://www.instagram.com/v_4_vijayy" target="_blank" role="button">Instagram</a>
+        
+       
+
+      </div>
+    </div>
+  </div>
+
+</div>  
+
+<div class="card-group text-center">
+  
+<div class="card mb-3 border-light bg-primary " >
+  <div class="row g- 2">
+    
+    <div class="col-sm-6 ">
+     
+    <img src="./assets/img/vijaypatidar.png" class="img-fluid rounded-bottom h-100 " alt="vijay patidar"> 
     </div>
     <div class="col-md-6">
       <div class="card-body">
@@ -665,7 +706,6 @@
 
 
 
-
   
   
   </div>
@@ -674,7 +714,38 @@
   
   
   </div>
-
+-->
+<!-- comment--------------------------- -->
+<div class="row text-center">
+  <div class="col-sm-6">
+    <div class="card border-light bg-primary">
+      <div class="card-body">
+        <h1 class="card-title text-opacity-100 text-light">Vijay Patidar</h1>
+        <hr>
+        <p class="card-text text-light">Project Manager & Developer</p>
+        <h6 class="card-text"><small class="text-light">I am Vijay Patidar and i'm a Programmer and  web developer. Currently i am the student of Master of computer application in  National Institute of Technology, Raipur. I am also working on Penetration testing web development project</small></h6>
+         <br><br>
+        <a class="btn btn-outline-danger bg-light" href="https://github.com/vijaypatidar99"target="_blank" role="button">Github</a>
+        <a class="btn btn-outline-danger bg-light" href="https://www.linkedin.com/in/vijay-patidar-951a16206"target="_blank" role="button">Linkedin</a>
+        <a class="btn btn-outline-danger bg-light" href="https://www.instagram.com/v_4_vijayy" target="_blank" role="button">Instagram</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card border-light bg-primary ">
+      <div class="card-body">
+        <h1 class="card-title text-opacity-100 text-light">Vivek Patel</h1>
+        <hr>
+        <p class="card-text text-light"> Backend Developer</p>
+        <h6 class="card-text"><small class="text-light">I am Vivek Patel  and i'm a Programmer and  web developer. Currently i am the student of Master of   computer application in <br>  National Institute of Technology, Raipur. </small></h6>
+        <br><br>
+        <a href="https://github.com/vivekpatel261" class="btn btn-outline-danger bg-light">Github</a>
+        <a href="https://www.linkedin.com/in/vivek-patel-bb898b206/" class="btn btn-outline-danger bg-light">Linkedin</a>
+         <a href="https://www.instagram.com/vp_patel99/" class="btn btn-outline-danger bg-light">Instagram</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 <!-----------------------------------------------------------------------feedback--------------------------------->
 <br>
@@ -704,7 +775,7 @@
     
     <span class="navbar-dark text-primary mb-0 h-100 text-md-center mx-auto  " >
       <img src="./assets/img/logo.png" alt="" width="150" height="60" class="d-inline-block align-text-bottom   "  > 
-      &nbsp; Designed and Developed By: Vijay patidar ©All Rights Reserved.
+      &nbsp; Designed and Developed By: Vijay Patidar and Vivek Patel Â©All Rights Reserved.
       
 
     </span>
