@@ -1,7 +1,7 @@
 <%-- 
     Document   : connect
     Created on : 21-May-2022, 5:26:01 pm
-    Author     : vijaypatidar & vivek patel
+    Author     : vijay patidar
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
